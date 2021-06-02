@@ -7,4 +7,4 @@ Suivi:
 correspondances de premitives 
 
 speed detection:
-syncro et steriovision 
+syncro et stereovision 
